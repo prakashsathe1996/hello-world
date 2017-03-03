@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-Thid id my first repository
+ThiS iS my first repository
